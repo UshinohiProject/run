@@ -14,3 +14,6 @@
 
 ## ブロック図
 ![Block Diagram](/img/blockDiagram.jpg)
+
+## デモ動画
+[![](https://img.youtube.com/vi/oNQo71qE7A0/0.jpg)](https://youtu.be/oNQo71qE7A0?si=9N7pOT0wWzeum6cc)
